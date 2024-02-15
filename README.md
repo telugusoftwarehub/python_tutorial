@@ -22,7 +22,7 @@ Large Eco-System/Libraries/Frameworks
 # Write Python 3 code in this online editor and run it.
 
 ## Variables:
-
+```bash
 one = "one"
 One = "One"
 _one = "_one"
@@ -32,8 +32,11 @@ _one_ = "_one_" #string
 
 days = 10; #integer
 salary = 10.5; #floating point 
+```
 
 ## How to print a output
+```bash
 print("String Value in one: ", one)
 print("No Of Days: ", days)
 print("Salary: ", salary)
+```
