@@ -40,3 +40,8 @@ print("String Value in one: ", one)
 print("No Of Days: ", days)
 print("Salary: ", salary)
 ```
+
+## List & List Methods
+```bash
+    superheros = ['Iron Man', 'Spider Man', "Ant Man']
+```
