@@ -37,3 +37,60 @@ salary = 10.5; #floating point
 print("String Value in one: ", one)
 print("No Of Days: ", days)
 print("Salary: ", salary)
+
+
+## Feb 20 24
+
+### Operators
+
+1. Arithmetic Operators
+    a. Addition `+`
+    b. Subsctraction
+    c. Multiplocation
+    d. Division
+    e. Floor Division `//`
+    f. Modulus '%'
+    g. Exponentiation `**`
+2. Comparison Operators
+    a. Equal to `==`
+    b. Not equal to `!=`
+    c. Greater than `>`
+    d. Less than `<`
+    e. Greater than or equal to `>=`
+    f. Less than or equal to `<=`
+3. Logical Operators
+    a. AND
+    b. OR
+    c. Not
+4. Assignment Operators
+    a. Assignment `=`
+    b. Addition assignment `+=`
+    c. Subsctraction `-=`
+    d. Multiplocation `*=`
+    e. Division `/=`
+    f. Floor Division `//=`
+    g. Modulus '%='
+    h. Exponentiation `**=`
+5. Bitwise Operators
+    a. AND `&`
+    b. OR `|`
+    c. XOR `^`
+    d. NOT `~`
+    e. Left Shift `<<`
+    f. Right Shift `>>`
+6. Membership Operators
+    a. in
+    b. not in
+7. Identity Operators
+    a. is
+    b. is not
+
+
+## Conditions
+
+``` bash
+if condition
+    true statement
+else
+    false statement 2
+```
